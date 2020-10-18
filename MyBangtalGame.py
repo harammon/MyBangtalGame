@@ -5,7 +5,7 @@ scene1 = Scene("메인화면", "images/메인화면.jpg")
 scene2 = Scene("훈련", "images/훈련.jpg")
 scene2_1 = Scene("훈련", "images/훈련.jpg")
 scene3 = Scene("수료", "images/훈련_몽쉘.jpg")
-scene4 = Scene("최애메뉴", "images/검정배경.png")
+scene4 = Scene("밥도둑", "images/검정배경.png")
 scene5 = Scene("미군식단", "images/미군식단.jpg")
 scene6 = Scene("냉동", "images/냉동.jfif")
 scene7 = Scene("내무반", "images/내무반.jfif")
@@ -156,7 +156,7 @@ def nextButton1_onMouseAction(x, y, action):
     global badge1
     if badge1:
         scene4.enter()
-        showMessage("군인들이 좋아하는 메뉴는?")
+        showMessage("밥도둑 메뉴는?")
     else:
         showMessage("이병 계급장이 필요합니다.")
 nextButton1.onMouseAction = nextButton1_onMouseAction
