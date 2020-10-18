@@ -18,7 +18,7 @@
 <img width="640" alt="식단" src="https://user-images.githubusercontent.com/62413705/96376858-560abc00-11bc-11eb-8bd4-8a77979011a6.png">   
 <br/><br/>
 
-### 숨겨진 아이템을 찾고 (조합하여) 병장으로 진급하세요!  조건을 모두 갖췄다면 '전역신고' 버튼을 누르세요.
+### 병장으로 진급하세요! 전역을 하기 위한 조건을 모두 갖췄다면 '전역신고' 버튼을 누르세요.
 <img width="641" alt="내무반" src="https://user-images.githubusercontent.com/62413705/96376860-573be900-11bc-11eb-96b2-6b6fbce862a6.png">   
 <br/><br/>
 
