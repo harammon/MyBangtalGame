@@ -17,6 +17,7 @@
 
 ### 병장이 되어 전역에 필요한 아이템을 수집한 후 '전역신고'버튼을 클릭합니다.
 <img width="641" alt="내무반" src="https://user-images.githubusercontent.com/62413705/96378451-f534b100-11c6-11eb-9df1-000f75acd967.png">
+<br/><br/>
 
 ### 전역을 하면 게임이 종료됩니다.
 <img width="643" alt="전역신고" src="https://user-images.githubusercontent.com/62413705/96378452-f6fe7480-11c6-11eb-9601-cb13cc1bf609.png">
