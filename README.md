@@ -2,6 +2,7 @@
 ### 문헌정보학과 / 20142611 / 이하람
 <br/>
 ~~재생되는 군가를 따라 부르면 기분이 좋습니다.~~
+<br/>
 ### 메인 화면입니다. start버튼을 누르면 시작합니다.
 <img width="643" alt="메인화면" src="https://user-images.githubusercontent.com/62413705/96378445-eb12b280-11c6-11eb-82e4-ea7fae1deacc.png">
 <br/><br/>
