@@ -19,8 +19,9 @@
 <br/><br/>
 
 ### 병장으로 진급하세요! 전역을 하기 위한 조건을 모두 갖췄다면 '전역신고' 버튼을 누르세요.
-<img width="641" alt="내무반" src="https://user-images.githubusercontent.com/62413705/96376860-573be900-11bc-11eb-96b2-6b6fbce862a6.png">   
-<br/><br/>
+<img width="641" alt="내무반" src="https://user-images.githubusercontent.com/62413705/96377986-10ea8800-11c4-11eb-8ef0-ba6167ac7f44.png">
+
+
 
 ### 전역 신고와 함께 게임이 종료됩니다.
 <img width="643" alt="전역신고" src="https://user-images.githubusercontent.com/62413705/96376861-5905ac80-11bc-11eb-803f-e65bc413b2eb.png">
