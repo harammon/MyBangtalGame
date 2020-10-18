@@ -75,6 +75,11 @@ cap.locate(scene7, 90, 210)
 cap.setScale(0.11)
 cap.show()
 
+photo = Object("images/아이유.png")
+photo.locate(scene7, 365, 217)
+photo.setScale(0.125)
+photo.show()
+
 completeButton = Object("images/전역.png")
 completeButton.locate(scene7, 1000, 100)
 completeButton.setScale(0.3)
@@ -238,7 +243,7 @@ answerFood1[1].onMouseAction = answerFood_onMouseAction
 answerFood1[2].onMouseAction = answerFood_onMouseAction
  
 def tape_onMouseAction(x, y, action):
-    showMessage("테이프를 얻었다!")
+    showMessage("테이프를 얻었습니다.")
     tape.pick()
 tape.onMouseAction = tape_onMouseAction
 
@@ -255,6 +260,11 @@ def cap_onMouseAction(x, y, action):
     cap.pick()
     showMessage("전역모를 얻었습니다.")
 cap.onMouseAction = cap_onMouseAction
+
+def photo_onMouseAction(x, y, action):
+    photo.pick()
+    showMessage("아이유 사진을 얻었습니다.")
+photo.onMouseAction = photo_onMouseAction
 
 
 
@@ -275,7 +285,7 @@ def completeButton_onMouseAction(x, y, action):
         showMessage("전역을 축하합니다!")
     else:
         scene8.enter()
-        showMessage("Game Over  (hint : 전역을 하기 위한 물품이 필요합니다.)")
+        showMessage("Game Over  (hint : 병장이 되어 전역을 위한 물품을 수집하세요.)")
 completeButton.onMouseAction = completeButton_onMouseAction
 
 
