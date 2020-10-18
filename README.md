@@ -15,7 +15,7 @@
 <img width="640" alt="식단" src="https://user-images.githubusercontent.com/62413705/96378450-f2d25700-11c6-11eb-81c7-20ba07dd7ade.png">
 <br/><br/>
 
-### 아직 일병인 당신, 병장이 되어 군대를 탈출하세요!(병장이 되어 전역에 필요한 아이템을 수집한 후 '전역신고'버튼을 클릭합니다.)
+### 병장이 되어 전역에 필요한 아이템을 수집한 후 '전역신고'버튼을 클릭합니다.
 <img width="641" alt="내무반" src="https://user-images.githubusercontent.com/62413705/96378451-f534b100-11c6-11eb-9df1-000f75acd967.png">
 
 ### 전역을 하면 게임이 종료됩니다.
