@@ -11,7 +11,7 @@
 <img width="640" alt="진급" src="https://user-images.githubusercontent.com/62413705/96378448-f06ffd00-11c6-11eb-9b1e-5a6596418a2c.png">
 <br/><br/>
 
-### 군대 밥도둑 메뉴를 고르는 문제입니다.
+### 군대 밥도둑 메뉴를 고르는 문제입니다.(*답이 없는 문제입니다.*)
 <img width="640" alt="식단" src="https://user-images.githubusercontent.com/62413705/96378450-f2d25700-11c6-11eb-81c7-20ba07dd7ade.png">
 <br/><br/>
 
